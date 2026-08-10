@@ -1,4 +1,4 @@
-# Yuk Okamura
+# Yuk!
 
 > Battery Engineer | Simulation × Experiment × Data
 
