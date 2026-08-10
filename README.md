@@ -20,13 +20,3 @@
 ![Docker](https://img.shields.io/badge/Docker-70C6D0?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7ACBB9?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-6DB6A8?style=flat-square&logo=latex&logoColor=white)
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=okamKTM&show_icons=true&include_all_commits=true&theme=transparent&title_color=5BAFA3&text_color=5C6E73&icon_color=72C7C0&border_color=CAEAE5" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamKTM&layout=compact&theme=transparent&title_color=5BAFA3&text_color=5C6E73&border_color=CAEAE5" alt="Top Languages" />
-</p>
