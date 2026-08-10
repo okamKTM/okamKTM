@@ -15,8 +15,6 @@
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-6CBFB5?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-75C9C1?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-78BFC7?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-70C6D0?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7ACBB9?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-6DB6A8?style=flat-square&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-75C9C1?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-78BFC7?style=flat-square&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-6DB6A8?style=flat-square&logo=fortran&logoColor=white)
