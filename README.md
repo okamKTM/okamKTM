@@ -1,29 +1,32 @@
-# Hi there, I'm Yuk! 👋
+# Yuk Okamura
 
-## 📊 About Me
-データから価値を抽出することに情熱を注ぐデータサイエンティスト / エンジニアです。
-物理モデリングと統計解析を組み合わせたアプローチを得意としていています。
+> Battery Engineer | Simulation × Experiment × Data
 
-- 🔭 現在の注力分野: バッテリ技術の高度化とデータ駆動型診断
-- 🌱 学習中: 深層学習による時系列予測、MLOps
-- 💬 相談できること: Pythonによるデータ解析、実験データの統計処理
+## About Me
 
-## 🛠 Tech Stack
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+電池開発におけるシミュレーションと実験データの統合に取り組むエンジニアです。
+物理モデルと計測データをつなぎ、より信頼できる状態推定・性能診断・設計判断につながる技術を探究しています。
 
-### Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+- 🔋 **Focus** — 電池技術、物理モデリング、実験データとの同化
+- 📈 **Exploring** — データ駆動型診断、時系列予測、機械学習
+- 🌱 **Learning** — AI を活用した電池開発と MLOps
+- 💬 **Let's talk about** — Python によるデータ解析、統計処理、シミュレーション
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okamKTM&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-6CBFB5?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-75C9C1?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-78BFC7?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-70C6D0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7ACBB9?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-6DB6A8?style=flat-square&logo=latex&logoColor=white)
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=okamKTM&show_icons=true&include_all_commits=true&theme=transparent&title_color=5BAFA3&text_color=5C6E73&icon_color=72C7C0&border_color=CAEAE5" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamKTM&layout=compact&theme=radical" alt="Top Langs" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamKTM&layout=compact&theme=transparent&title_color=5BAFA3&text_color=5C6E73&border_color=CAEAE5" alt="Top Languages" />
 </p>
